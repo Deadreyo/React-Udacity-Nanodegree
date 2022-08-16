@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+.create-user-form label {
+  display: block;
+  margin-top: 20px;
+}
+
+.create-user-form button {
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+  background-color: ghostwhite;
+}
